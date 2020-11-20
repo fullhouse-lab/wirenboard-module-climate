@@ -1,0 +1,24 @@
+{
+  "name": "wirenboard-module-climate",
+  "version": "1.8.0",
+  "description": "Module to climate control",
+  "main": "./wb-rules-modules/climate.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "climate",
+    "heater",
+    "warmfloor",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-climate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-climate/issues/"
+  },
+  "license": "ISC"
+}
